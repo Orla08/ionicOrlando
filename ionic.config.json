@@ -1,7 +1,0 @@
-{
-  "name": "proyecto-pcaOrlando",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
